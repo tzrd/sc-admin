@@ -1,0 +1,6 @@
+/conf/config.local.ini
+/log/**
+/tmp/**
+/scadmin_darwin_amd64
+scadmin_linux_amd64
+/bin/**
